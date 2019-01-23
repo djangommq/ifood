@@ -1,0 +1,11 @@
+
+.idea/*
+log/*
+files/*
+*.pyc
+data/20180706/reviews/*
+data/result/*
+data/20180706/comments/*
+input/IF research instructions.pdf
+src_v1/log.log
+*.log

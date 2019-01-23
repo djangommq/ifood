@@ -1,0 +1,422 @@
+1-state,2-city,3-street,4-number
+SP,Sao Paulo,Rua 25 de Marco,166
+SP,Sao Paulo,Avenida Tiradentes,551
+SP,Sao Paulo,Rua Baronesa de Itu,311
+SP,Sao Paulo,Rua Martiniano de Carvalho,694
+SP,Sao Paulo,Alameda Itu,"1,040"
+SP,Sao Paulo,Rua Cuba,324
+SP,Sao Paulo,Rua do Lavapes,594
+SP,Sao Paulo,Rua Botupuca,202
+SP,Sao Paulo,Av. Olavo Fontoura,"2,220"
+SP,Sao Paulo,R. Dr. Zuquim,795
+SP,Sao Paulo,Av. Joaquina Ramalho,230
+SP,Sao Paulo,Avenida Nossa Senhora do Loreto,540
+SP,Sao Paulo,Rua Irmaos Pila,145
+SP,Sao Paulo,Rua Josefina Arnoni,450
+SP,Sao Paulo,Avenida Engenheiro Caetano alvares,"4,496"
+SP,Sao Paulo,Rua Jeronimo dos Santos,18
+SP,Sao Paulo,Rua Aurelio Brasil Ribeiro,401
+SP,Sao Paulo,Rua Ouvidio Jose Antonio Santana,409
+SP,Sao Paulo,Avenida Doutor Felipe Pinel,377
+SP,Sao Paulo,Rua Silvado,271
+SP,Sao Paulo,Rua Philonilia Goncalves dos Santos,10
+SP,Sao Paulo,Rua Major Marcelino,42
+SP,Sao Paulo,Rua Henrique Sertorio,418
+SP,Sao Paulo,Rua Adelaide de Freitas,107
+SP,Sao Paulo,Rua Aristides Pileggi,26
+SP,Sao Paulo,Rua Porto Alegre,695
+SP,Sao Paulo,Avenida Brumado de Minas,687
+SP,Sao Paulo,R. Tanganica,29
+SP,Sao Paulo,Rua Sete de Outubro,280
+SP,Sao Paulo,Travessa Olinda Ramos Martins,26
+SP,Sao Paulo,Rua Eugenia de Carvalho,364
+SP,Sao Paulo,Rua Andrade Maia,71
+SP,Sao Paulo,Rua Pereque,150
+SP,Sao Paulo,Rua Maxine,308
+SP,Sao Paulo,Rua Antonio Olimpio,"1,176"
+SP,Sao Paulo,Rua Manuel Machado Nunes,3
+SP,Sao Paulo,Rua Salvador Fontoura,70
+SP,Sao Paulo,Rua Ibiracatu,44
+SP,Sao Paulo,Rua Sargento Luis Rodrigues Filho,211
+SP,Sao Paulo,Avenida Sapopemba,"6,789"
+SP,Sao Paulo,R. Tutoia,811
+SP,Sao Paulo,Rua Sud Mennucci,311
+SP,Sao Paulo,Rua Pitangueiras,2
+SP,Sao Paulo,Rua Pedro Campana,141
+SP,Sao Paulo,Rua Americo Ribeiro,499
+SP,Sao Paulo,Rua Nagib Tanus Gastin,134
+SP,Sao Paulo,Rua do Manifesto,"1,409"
+SP,Sao Paulo,Rua Henrique Neri Ramos,58
+SP,Sao Paulo,Avenida Diederichsen,"1,332"
+SP,Sao Paulo,Rua Derval,211
+SP,Sao Paulo,Rua Hipolito Raposo,120
+SP,Sao Paulo,Rua Selma Kurtz,179
+SP,Sao Paulo,Avenida Sabia,110
+SP,Sao Paulo,Rua Professor Atilio Innocenti,383
+SP,Sao Paulo,R. Guararapes,"2,064"
+SP,Sao Paulo,Rua Otavio Tarquinio de Sousa,665
+SP,Sao Paulo,Rua Doutor Jose aureo Bustamante,317
+SP,Sao Paulo,Rua Darwin,549
+SP,Sao Paulo,Avenida das Nacões Unidas,22
+SP,Sao Paulo,Rua Icanhema,161
+SP,Sao Paulo,Rua Benedetto Marcello,276
+SP,Sao Paulo,Rua Professor Haroldo Nogueira,45
+SP,Sao Paulo,Rua Olga Moretti Ferrari,112
+SP,Sao Paulo,R. Augusto Avelino de Morais,195
+SP,Sao Paulo,Rua Palestra Italia,"2,100"
+SP,Sao Paulo,Rua Adriano Jose Marchini,106
+SP,Sao Paulo,Rua Albion,563
+SP,Sao Paulo,Avenida Cardeal Motta,937
+SP,Sao Paulo,Rua Antonio da Costa Magueta,55
+SP,Sao Paulo,Avenida Comendador Fiorelli Peccicacco,"1,359"
+SP,Sao Paulo,Rua Delsuc Alves de Magalhaes,394
+SP,Sao Paulo,Rua Carlos Weber,663
+SP,Sao Paulo,Rua Bartolomeu de Ribeîra,100
+SP,Sao Paulo,Avenida Otacilio Tomanik,618
+SP,Sao Paulo,Rua Rui Amaral Lemos,333
+SP,Sao Paulo,Rua Capote Valente,"1,300"
+SP,Sao Paulo,Rua Iquitos,55
+SP,Sao Paulo,Rua Padre Cerda,20
+SP,Sao Paulo,Avenida Professor Fonseca Rodrigues,"2,001"
+SP,Sao Paulo,Rua Jeronimo Fernandes,321
+SP,Sao Paulo,Rua Albano Jose Pires,1
+SP,Sao Paulo,Rua Leonardo Mota,124
+SP,Sao Paulo,Rua Leonardo do Vale,93
+SP,Sao Paulo,Rua do Simbolo,91
+SP,Sao Paulo,Rua Miguel Masi Neto,171
+SP,Sao Paulo,Rua Vicente Carozza,127
+SP,Sao Paulo,Rua Hugo,80
+SP,Sao Paulo,Rua Maria Jose de Carvalho,273
+SP,Sao Paulo,Rua Joao de Santana,298
+SP,Sao Paulo,Av. Ellis Maas,265
+SP,Osasco,Rua dos Marianos,470
+SP,Osasco,Rua Celso Bueno da Silveira,15
+SP,Osasco,Rua Claudio Aparecido Oliveira,221
+SP,Osasco,Rua Agostinho Navarro,141
+SP,Osasco,Rua Werner Battenfeld,151
+SP,Osasco,Rua Arno Barreto de Magalhaes,77
+SP,Carapicuiba,Rua Celina,87
+SP,Carapicuiba,Rua da Felicidade,398
+SP,Barueri,Avenida Sargento Jose Siqueira,289
+SP,Barueri,Alameda Itapecuru,99
+SP,Santana de Parnaiba,Avenida Botafogo,73
+SP,Jandira,Rua Rubens Lopes da Silva,300
+SP,Itapevi,Avenida Ana Araujo de Castro,82
+SP,Cotia,Rua Nova Amazonas,701
+SP,Taboao da Serra,Rua Antonio de Oliveira Salazar,847
+SP,Embu das Artes,Rua Santa Teresa,285
+SP,Embu das Artes,Rua Marechal Hermes da Fonseca,35
+SP,Itapecerica da Serra,Avenida Maximino Augusto de Carvalho,720
+SP,Guarulhos,Avenida Duarte da Costa,91
+SP,Guarulhos,Rua Emilia Gali Augusto,23
+SP,Guarulhos,Avenida Jose Lourenco Neves,651
+SP,Guarulhos,Rua Indiapora,521
+SP,Guarulhos,Avenida Jacupiranga,127
+SP,Aruja,Rua Vida e Arte,107
+SP,Sao Paulo,Avenida Marechal Tito,933
+SP,Sao Paulo,Rua Serra da Moeda,54
+SP,Sao Paulo,Rua Ary Cordovil,267
+SP,Sao Paulo,Rua Minduri,2
+SP,Sao Paulo,Rua Pedro Ferraz Barreto,99
+SP,Sao Paulo,Rua Manuel Ribas,158
+SP,Sao Paulo,Rua Jose Henrique Tomaz de Lima,201
+SP,Sao Paulo,Rua Amanari,413
+SP,Sao Paulo,Rua Fernandes Tenorio,235
+SP,Sao Paulo,Avenida Mariana de Sousa Guerra,708
+SP,Sao Paulo,Largo Giocara,15
+SP,Sao Paulo,Rua Ayrton Senna,174
+SP,Sao Paulo,Rua Dona Eloa do Valle Quadros,816
+SP,Ferraz de Vasconcelos,R. Masato Sakai,180
+SP,Poa,Rua Padre Eustaquio,163
+SP,Itaquaquecetuba,Rua Natal,283
+SP,Suzano,Rua Alfredo Batista Pizolato,269
+SP,Santo Andre,Rua Cisplatina,"1,344"
+SP,Santo Andre,Avenida Pereira Barreto,626
+SP,Santo Andre,Rua Rossini,80
+SP,Santo Andre,Rua Tumiaru,81
+SP,Maua,Rua Dona Ida Scilla Gianone,39
+SP,Maua,Rua Porto Feliz,121
+SP,Ribeirao Pires,Avenida Fortuna,151
+SP,Sao Caetano do Sul,Avenida Conselheiro Antonio Prado,137
+SP,Sao Caetano do Sul,R. Castro Alves,10
+SP,Sao Caetano do Sul,Rua Taipas,"1,195"
+SP,Sao Bernardo do Campo,Rua Jose Erdeg,182
+SP,Sao Bernardo do Campo,Rua Afonso Celso Figueiredo,280
+SP,Sao Bernardo do Campo,Rua Professor Norberto Denzin,100
+SP,Sao Bernardo do Campo,Rua Giacinto Tognato,"2,400"
+SP,Sao Bernardo do Campo,Rua Doutor Antonio Jorge Franco,368
+SP,Sao Bernardo do Campo,Rua Mario Missirolli,100
+SP,Sao Bernardo do Campo,Rua Arlindo Januario de Almeida,499
+SP,Diadema,Rua Almerinda Maria da Silva,10
+SP,Campinas,Rua Copaiba,50
+SP,Campinas,Rua Delonix,50
+SP,Campinas,Rua Osvaldo Von Zuben,50
+SP,Campinas,Rua Caicara,50
+SP,Campinas,Alameda das Palmeiras,50
+SP,Campinas,Rua Adolfo Maracini,223
+SP,Campinas,Rua Bento de Arruda Camargo,500
+SP,Campinas,Avenida Jose de Souza Campos,"2,400"
+SP,Campinas,Rua Uruguaiana,"1,000"
+SP,Campinas,Rua Cosme Pelegrini,50
+SP,Campinas,Estrada da Coudelaria,50
+SP,Campinas,Rua Emani Paulino,50
+SP,Campinas,Rua Ramalho Ortigao,50
+SP,Campinas,Avenida Artur Paioli,100
+SP,Campinas,Rua Doutor Barbosa da Cunha,50
+SP,Campinas,Rua Raul de Souza Campos,50
+SP,Campinas,Rodovia Anhanguera (Marginal),50
+SP,Campinas,Rua Antonio Grandin,50
+SP,Campinas,Avenida Santa Isabel,50
+SP,Campinas,Rua Amadeu Martins,50
+SP,Campinas,Av. Jose Pancetti,982
+SP,Campinas,Rua Cobre,50
+SP,Campinas,Rua Althea Astolfi Favali,50
+SP,Campinas,Avenida Soldado Passarinho,50
+SP,Campinas,Rua das Imbuias,50
+SP,Campinas,Rua Antonio Finati Sobrinho,50
+SP,Campinas,Rua Doutora Joana Zanaga Aboim Gomes,50
+SP,Campinas,Rua Irai,50
+SP,Campinas,Rua Nacer Duek,50
+SP,Campinas,Rua Doutor Emilio Ribas,900
+SP,Campinas,Av. Dr. Euridice Jose Bento,216
+PR,Curitiba,Rua Piraquara,300
+PR,Curitiba,Rua Teodomiro Furtado,300
+PR,Curitiba,Rua Doutor Gastao Faria,300
+PR,Curitiba,Rua Joao Parolin,"1,588"
+PR,Curitiba,Avenida Visconde de Guarapuava,"2,943"
+PR,Curitiba,Rua Deputado Mario de Barros,"1,158"
+PR,Curitiba,Rua Coronel Joao Candido Muricy,300
+PR,Curitiba,Rua angelo Cunico,600
+PR,Almirante Tamandare,Rua Santa Amelia,52
+PR,Curitiba,Rua Desembargador Lauro Lima Lopes,300
+PR,Curitiba,Conjunto Acucena Rua C,300
+PR,Curitiba,Rua Salvador Ferrante,"1,440"
+PR,Curitiba,Rua Doutor Djalma Ferreira Lopes,300
+PR,Curitiba,Avenida Comendador Franco,"1,619"
+PR,Curitiba,Rua Itupava,"1,670"
+PR,Curitiba,Rua Desembargador Arthur Leme,300
+PR,Curitiba,Rua Rei David,300
+PR,Almirante Tamandare,Rua Pocos de Caldas,300
+PR,Curitiba,Avenida Comendador Franco,"6,634"
+PR,Curitiba,Rua Salvador,300
+PR,Curitiba,Rua Clavio Molinari,300
+PR,Curitiba,Rua dos Xaverianos,300
+PR,Curitiba,Rua Guido Scotti,300
+PR,Colombo,Rodovia da Uva,300
+PR,Colombo,Rua Maria Razoto Alberti,300
+PR,Colombo,Rua Zacarias de Paula Xavier,561
+PR,Sao Jose dos Pinhais,Rua Toledo,300
+PR,Sao Jose dos Pinhais,Rua Piaui,300
+PR,Curitiba,Rua Monalisa Stefani,300
+PR,Curitiba,Rua Luiz Carlos Dorecki,300
+PR,Pinhais,Rua Severino Massignan,269
+PR,Pinhais,Rua Nova Esperanca,300
+PR,Curitiba,Rua Rio Iriri,"1,536"
+PR,Colombo,Rua Gustavo Kabitschke,903
+PR,Colombo,Rua Osvaldo Strapasson Vicentin,300
+PR,Sao Jose dos Pinhais,Rua Joao Zarpelon,300
+PR,Sao Jose dos Pinhais,Rua Celso da Costa Ramos,300
+PR,Piraquara,Rua Augusto Lucio,300
+PR,Colombo,Rua Cascavel,"1,205"
+PR,Sao Jose dos Pinhais,Rua Trindade,300
+PR,Curitiba,Rua Nicola Pelanda,300
+PR,Curitiba,Rua Jose Egidio Martins,300
+PR,Curitiba,Rua Doutor Manoel Linhares de Lacerda,205
+PR,Curitiba,Rua Joao Bettega,206
+PR,Curitiba,Av. Silva Jardim,"3,544"
+PR,Curitiba,Rua Professor Lycio Grein de Castro Vellozo,300
+PR,Curitiba,Rua Joao Pereira da Silva,300
+PR,Curitiba,Rua Domingo Antonio Moro,300
+PR,Almirante Tamandare,Rua Curitiba,300
+PR,Curitiba,Rua Cyro Correia Pereira,300
+PR,Curitiba,Rua Brasilio Ansay,300
+PR,Curitiba,Rua Joao Bettega,"2,876"
+PR,Curitiba,Rua Major Franca Gomes,"1,479"
+PR,Curitiba,Rua Professor Pedro Viriato Parigot de Souza,300
+PR,Curitiba,Avenida Manoel Ribas,"5,039"
+PR,Curitiba,Paysage Curityba Condominio Parque,300
+PR,Curitiba,Rua Inacio Wolski,300
+PR,Curitiba,Rua Nazilde Guimaraes Paixao,300
+PR,Curitiba,Rua Lacerdopolis,300
+PR,Curitiba,Rua do Grupo Escolar,147
+PR,Curitiba,Rua Manoel das Chagas Lima,300
+PR,Curitiba,Rua Joao Batista Casagrande,300
+RS,Porto Alegre,R. Duque de Caxias,973
+RS,Porto Alegre,R. Ramiro Barcelos,"2,350"
+RS,Porto Alegre,R. Marques do Herval,540
+RS,Porto Alegre,Av. Bahia,29
+RS,Porto Alegre,Av. Assis Brasil,"1,214"
+RS,Porto Alegre,Av. Plinio Brasil Milano,"1,000"
+RS,Porto Alegre,R. Eng. Antonio Reboucas,74
+RS,Porto Alegre,R. Riveira,400
+RS,Porto Alegre,R. Carlos Huber,425
+RS,Porto Alegre,Av. Sargento Manoel Raymundo Soares,606
+RS,Porto Alegre,R. Santa Maria,725
+RS,Porto Alegre,R. Barao do Amazonas,"2,642"
+RS,Porto Alegre,R. Correa Lima,"1,170"
+RS,Porto Alegre,Rua Dario Totta,585
+RS,Porto Alegre,R. Camaqua,149
+RS,Porto Alegre,Rua Padre Joao Batista Reus,"1,133"
+RS,Porto Alegre,Av. Eduardo Prado,425
+RS,Porto Alegre,R. Prof. Antonio Jose Remiao,275
+RS,Porto Alegre,Rua Geraldo Tollens Linck,93
+RS,Porto Alegre,R. Dr. Carlos Niederauer Hofmeister,86
+RS,Porto Alegre,Av. Saturnino de Brito,"1,112"
+RS,Porto Alegre,R. Adao Baino,206
+RS,Porto Alegre,R. Equatorial,98
+RS,Porto Alegre,Av. Walter Kaufmann,5
+RS,Porto Alegre,Rua Baden Powell,384
+RS,Porto Alegre,Av. Assis Brasil,"7,675"
+RS,Porto Alegre,R. Geraldina Batista,114
+RS,Porto Alegre,R. Jose Marcelino,722
+RS,Porto Alegre,Av. Adelino Ferreira Jardim,495
+RS,Porto Alegre,R. Eduardo Nadruz,210
+RS,Alvorada,R. Papa Joao Paulo II,84
+RS,Porto Alegre,R. Adelino Machado de Souza,486
+RS,Canoas,R. Santa Cruz,20
+RS,Canoas,R. Florianopolis,"3,835"
+RS,Canoas,R. Irmao Pedro,709
+RS,Canoas,Av. Dezessete de Abril,604
+RJ,Rio de Janeiro,R. Albano de Carvalho,48
+RJ,Rio de Janeiro,R. Odilon Duarte Braga,240
+RJ,Rio de Janeiro,R. Petronio Castro Souza,495
+RJ,Rio de Janeiro,R. Vilhena de Morais,100
+RJ,Rio de Janeiro,Av. Gastao Senges,185
+RJ,Rio de Janeiro,Av. erico Verissimo,725
+RJ,Rio de Janeiro,Av. Jaime Poggi,80
+RJ,Rio de Janeiro,R. Juranda,5
+RJ,Rio de Janeiro,Rua Edgard Werneck,217
+RJ,Rio de Janeiro,R. Araticum,437
+RJ,Rio de Janeiro,Caminho do Boiadeiro,5
+RJ,Rio de Janeiro,R. Jose Linhares,85
+RJ,Rio de Janeiro,R. Jangadeiros,42
+RJ,Rio de Janeiro,Rua Hilario de Gouveia,74
+RJ,Rio de Janeiro,R. Visc. da Graca,51
+RJ,Rio de Janeiro,R. Sao Clemente,180
+RJ,Rio de Janeiro,R. do Catete,325
+RJ,Rio de Janeiro,R. Joaquim Silva,82
+RJ,Rio de Janeiro,R. Alexandre Mackenzie,122
+RJ,Rio de Janeiro,R. Aristides Lobo,71
+RJ,Rio de Janeiro,R. Barao de Mesquita,262
+RJ,Rio de Janeiro,Av. Eng. Richard,52
+RJ,Rio de Janeiro,Rua Conde de Bonfim,875
+RJ,Rio de Janeiro,Rua General Argolo,122
+RJ,Rio de Janeiro,R. Dois de Maio,50
+RJ,Rio de Janeiro,R. Licinio Cardoso,461
+RJ,Rio de Janeiro,R. Dona Claudina,497
+RJ,Rio de Janeiro,R. Manuel Vitorino,553
+RJ,Rio de Janeiro,R. Mateus Silva,222
+RJ,Rio de Janeiro,R. Aracati,51
+RJ,Rio de Janeiro,R. Carneiro da Rocha,108
+RJ,Rio de Janeiro,Rua Tatajuba,98
+RJ,Rio de Janeiro,R. Maria Rodrigues,65
+RJ,Rio de Janeiro,R. Tiboim,353
+RJ,Rio de Janeiro,R. Aimore,448
+RJ,Rio de Janeiro,Av. Min. Edgard Romero,101
+RJ,Rio de Janeiro,Av. Vicente de Carvalho,739
+RJ,Rio de Janeiro,R. Silva Vale,50
+RJ,Rio de Janeiro,Av. Meriti,"4,034"
+RJ,Rio de Janeiro,R. Toriba,145
+RJ,Rio de Janeiro,R. Joao Vicente,"1,543"
+RJ,Rio de Janeiro,R. das Rosas,810
+RJ,Rio de Janeiro,R. Godofredo Viana,447
+RJ,Rio de Janeiro,R. Barao de Petropolis,731
+RJ,Rio de Janeiro,R. Volta Redonda,68
+RJ,Rio de Janeiro,R. Motorista Luis Abreu,832
+RJ,Rio de Janeiro,R. Francisco Bacuri,278
+RJ,Rio de Janeiro,R. Franz Liszt,8
+RJ,Duque de Caxias,R. Gen. Manoel Rabelo,338
+RJ,Duque de Caxias,R. Igarape,307
+RJ,Sao Joao de Meriti,Av. Automovel Clube,"2,110"
+RJ,Sao Joao de Meriti,Av. Fluminense,44
+RJ,Sao Joao de Meriti,R. Elizario de Souza,586
+RJ,Nilopolis,Av. Getulio de Moura,"2,605"
+RJ,Belford Roxo,R. Maria Amelia,357
+RJ,Nova Iguacu,R. Athaide Pimenta de Morais,528
+RJ,Rio de Janeiro,Av. de Santa Cruz,580
+RJ,Rio de Janeiro,Av. de Santa Cruz,"5,403"
+RJ,Rio de Janeiro,R. Teixeira Campos,121
+RJ,Rio de Janeiro,R. Casa Nova,115
+RJ,Rio de Janeiro,Rua Olinda Ellis,661
+RJ,Rio de Janeiro,Rua Nicolino Copia,15
+RJ,Rio de Janeiro,R. Balaton,259
+RJ,Rio de Janeiro,R. Campo Formoso,474
+RJ,Rio de Janeiro,R. Atalaia do Norte,10
+RJ,Rio de Janeiro,R. Bolivar Costa,320
+RJ,Rio de Janeiro,R. Justo de Morais,80
+RJ,Rio de Janeiro,R. Vasco Lima,694
+RJ,Rio de Janeiro,R. do Imperio,408
+RJ,Itaguai,R. Jonas Costa Pereira,35
+RJ,Rio de Janeiro,Estr. da Matriz,200
+RJ,Niteroi,R. Prof. Lara Vilela,176
+RJ,Niteroi,Rua Mariz e Barros,397
+RJ,Niteroi,R. Silva Jardim,148
+RJ,Niteroi,R. Rubens Brasil,92
+RJ,Niteroi,Av. Rui Barbosa,473
+RJ,Sao Goncalo,R. Mal. Floriano Peixoto,"1,682"
+MG,Belo Horizonte,R. Estanislau Pedro Boardman,14
+MG,Contagem,Rua Palmeiras,316
+MG,Contagem,R. Maria das Gracas Teixeira,311
+MG,Belo Horizonte,R. Guaporema,106
+MG,Belo Horizonte,R. Trezentos E Trinta e Cinco,520
+MG,Contagem,R. Vasco de Azevedo,746
+MG,Belo Horizonte,R. Albertino Teixeira Dias,22
+MG,Belo Horizonte,R. Flamengo,179
+MG,Belo Horizonte,R. Jeremias,253
+MG,Belo Horizonte,R. Estrela do Norte,335
+MG,Belo Horizonte,Rua Magi Salomon,27
+MG,Belo Horizonte,R. Curupaiti,218
+MG,Belo Horizonte,Rua Antonio Marzinetti,395
+MG,Belo Horizonte,R. Siracusa,2
+MG,Belo Horizonte,R. Olavo Bilac,2
+MG,Belo Horizonte,R. Pinhal,249
+MG,Ribeirao das Neves,Av. A,67
+MG,Vespasiano,Alameda Gov. Valadares,178
+MG,Vespasiano,Av. Um,720
+MG,Belo Horizonte,R. Joao Batista Fernandes,70
+MG,Belo Horizonte,Rua Ely Murilo Claudio,408
+MG,Belo Horizonte,R. Morse Belem Teixeira,18
+MG,Belo Horizonte,R. Viana do Castelo,990
+MG,Belo Horizonte,R. Jaguari,975
+MG,Belo Horizonte,R. Herculano de Freitas,862
+MG,Belo Horizonte,Av. Raja Gabaglia,"3,105"
+MG,Belo Horizonte,Rod. Br 356,45
+MG,Nova Lima,Alameda Conde do Rio Pardo,114
+MG,Nova Lima,R. das Cores,355
+MG,Nova Lima,Alameda Oscar Niemeyer,"1,276"
+MG,Belo Horizonte,Rua Professor Eugenio Murilo Rubiao,199
+MG,Belo Horizonte,Av. Bernardo Monteiro,858
+MG,Belo Horizonte,R. Itajuba,"2,065"
+MG,Belo Horizonte,R. Angola,2
+MG,Belo Horizonte,Av. Waldomiro Lobo,822
+MG,Belo Horizonte,R. Ipe Roxo,545
+MG,Santa Luzia,Alameda Ibirapuera,221
+MG,Santa Luzia,Rua Maria Angelica Coelho,149
+MG,Santa Luzia,R. Dezesseis,175
+MG,Santa Luzia,R. F,237
+MG,Santa Luzia,Av. Fortaleza,29
+MG,Belo Horizonte,R. Etilandia,82
+MG,Belo Horizonte,R. Sebastiana Soares dos Santos,179
+MG,Belo Horizonte,R. Padre Guilherme,22
+MG,Belo Horizonte,R. Carmo da Mata,520
+MG,Belo Horizonte,R. Mangabeira da Serra,370
+DF,Brasilia,Qd 12 - Cruzeiro Velho,1
+DF,Brasilia,Superquadra Sudoeste 305 - St. Sudoeste - Cruzeiro / Sudoeste / Octogonal,1
+DF,Brasilia,Diref Pf Brasilia - Sps - Brasilia,1
+DF,Brasilia,3 - St. de Habitacões Individuais Sul QL 2 - St. Hab Ind Sul,1
+DF,Brasilia,8 - St. de Habitacões Individuais Sul QI 3 - Brasilia,1
+DF,Brasilia,QI 5 - St. de Habitacões Individuais Sul - Lago Sul,1
+DF,Brasilia,Superquadra Sul 409 - Asa Sul,1
+DF,Brasilia,Edificio Central Park - SGAS I St. de Grandes areas Sul 905 - Brasilia,1
+DF,Brasilia,Trecho 2 - SRPN - Brasilia,1
+DF,Brasilia,SQNW - Brasilia,1
+DF,Brasilia,0 - Shln - Asa Norte,1
+DF,Brasilia,Superquadra Norte 416 - Asa Norte,1
+DF,Brasilia,407 - Asa Norte Superquadra Norte 407 - Asa Norte,1
+DF,Brasilia,Q 3 - St. de Autarquias Norte - Brasilia,1
+DF,Brasilia,Trecho 2 - St. de Clubes Esportivos Sul - Brasilia,1
+DF,Brasilia,4 - St. de Habitacões Individuais Sul QL 14 - St. Hab Ind Sul,1
+DF,Brasilia,QI 23 - St. de Habitacões Individuais Sul - Lago Sul,1
+DF,Brasilia,11 - St. de Habitacões Individuais Sul QI 25 - Brasilia,1
+DF,Brasilia,Trecho 2 - St. de Clubes Esportivos Sul - Asa Sul,1
+DF,Brasilia,Rua 9 - Vila Planalto Acamp Pacheco Fernandes - Brasilia,1
